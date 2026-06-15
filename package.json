@@ -1,0 +1,27 @@
+{
+  "name": "river-rafting-app",
+  "version": "0.1.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "expo": "*",
+    "expo-router": "*",
+    "expo-status-bar": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-safe-area-context": "*",
+    "react-native-screens": "*",
+    "@supabase/supabase-js": "*",
+    "@react-native-async-storage/async-storage": "*"
+  },
+  "devDependencies": {
+    "typescript": "*",
+    "@types/react": "*"
+  },
+  "private": true
+}

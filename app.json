@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "River Rafting",
+    "slug": "river-rafting-app",
+    "scheme": "riverrafting",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "ios": { "supportsTablet": true },
+    "android": {},
+    "web": { "bundler": "metro" }
+  }
+}
